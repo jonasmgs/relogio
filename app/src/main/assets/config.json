@@ -1,0 +1,6 @@
+{
+  "appName": "relogio",
+  "featureFlags": {
+    "aiAssistant": true
+  }
+}

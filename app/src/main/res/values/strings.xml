@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">relogio</string>
+    <string name="app_name">Relógio Oyster</string>
     <string name="hello">Olá, mundo!</string>
     <string name="action">Tocar</string>
+    <string name="hours">HORAS</string>
+    <string name="minutes">MINUTOS</string>
+    <string name="hour_up">Aumentar hora</string>
+    <string name="hour_down">Diminuir hora</string>
+    <string name="minute_up">Aumentar minuto</string>
+    <string name="minute_down">Diminuir minuto</string>
+    <string name="set_current_time">Hora Atual</string>
 </resources>
